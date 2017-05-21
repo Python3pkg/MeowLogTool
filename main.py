@@ -18,7 +18,7 @@ if __name__ == "__main__":
     sys.stdout = s1
 
     # anything print to console will be log
-    print 'I am Pusheen the cat'
+    print('I am Pusheen the cat')
     a = 1234
     print ('I eat 3 shortcakes already. It is too short')
-    print ('cost = ', a)
+    print(('cost = ', a))
